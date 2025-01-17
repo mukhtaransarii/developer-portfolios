@@ -538,6 +538,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Naeem Tahir](https://muhammadnaeemtahir.github.io)
 - [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Saad Siddique](https://saad-muhammadsaadsiddique.vercel.app)
+- [Mukhtar Alam](https://mukhtaransarii.github.io/bbs-v4)
 - [Mukul Chugh](https://mukulchugh.com)
 - [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
 - [Mushfiqur Rahman](https://mushfiq.xyz/)
